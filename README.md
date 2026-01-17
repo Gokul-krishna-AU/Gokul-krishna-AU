@@ -1,8 +1,16 @@
-## Hi 👋, I'm Gokul Krishna
+## Hi 👋, I'm Gokul Krishna  
+**Front-End Developer | Angular**
 
-Front-End Developer specializing in Angular and modern web development.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
----
+<p align="center">
+  Building clean, structured Angular applications with real-world features.
+</p>
+
+<hr />
+
 
 ### 👨‍💻 About
 - Builds clean, structured Angular applications
